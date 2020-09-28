@@ -1,0 +1,55 @@
+body{
+	background-color: #2874A6 ;
+	box-sizing: border-box;
+}
+
+
+#head{
+	
+	margin-top: 10px;
+	font-family: Copperplate;
+	background-color:#273746;
+	border-radius: 5px;
+    border: 1px;
+    height: 100px;
+
+}
+
+#para{
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+#main{
+	background-color: #F1C40F  ;
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	height:250px;
+	width: 90%;
+	margin: auto;
+	border-radius: 5px;
+    border: 1px;
+    box-shadow: 3px 3px 3px 3px ;
+
+}
+
+h1{
+	padding-top: 10px;
+	font-size: 25px;
+}
+}
+
+p{
+	padding-top: 10px;
+	/*font-style: bold;
+	font-size: 50px;
+*/
+}
+label{
+	font-weight: bolder;
+	font-size: 15px;
+	font-family: Verdana;
+
+}
